@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @farihazehra
+- 👋 Hi, I’m Fariha Zehra
 - 👀 I’m interested in Data Analyst
 - 🌱 I’m currently learning Data Science
 - 💞️ I’m looking to collaborate on projects related to data analysis and visualization.

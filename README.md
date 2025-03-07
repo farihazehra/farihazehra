@@ -1,10 +1,10 @@
 - 👋 Hi, I’m Fariha Zehra
-- 👀 I’m interested in Data Analyst
-- 🌱 I’m currently learning Data Science
-- 💞️ I’m looking to collaborate on projects related to data analysis and visualization.
+- 👀 I’m interested in Web Development
+- 🌱 I’m currently learning FrontEnd
+- 💞️ I’m looking to collaborate on projects related to frontend.
 - 📫 Reach me via email farihazehrasaboor123@gmail.com
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I enjoy exploring new datasets and finding insights through data!
+- ⚡ Fun fact: I enjoy exploring new designs of unique websites!
 
 
 <!---
